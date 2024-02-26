@@ -1,6 +1,7 @@
 ﻿using AdapterPattern;
 using AdapterPattern.Json.Adapters;
 using AdapterPattern.Xml.Adapters;
+using ObserverPattern;
 using SingletonPattern;
 using StrategyPattern.Attacks;
 using StrategyPattern.Character;
@@ -156,5 +157,23 @@ using StrategyPattern.Real;
 //} while (Console.ReadKey().Key!=ConsoleKey.Escape);
 
 
+
+#endregion
+
+#region ObserverPattern
+
+//Meselen bir e-tic saytinda mehsulun sayi bitib ve sizde abune olmusunuz yeni mehsul yuklenen kimi size bilirim gelir, tam olara observer desifnPattern
+//mentiqide bu sekildedir
+
+//var samsung = new Product("Samsung", "1000");
+//var iphone = new Product("Iphone", "1000");
+
+//var observer = new TestObserver("Teymur Rahimli");
+
+//var amazon = new Amazon();
+
+////amazon.REgister(observer, samsung);
+////amazon.REgister(observer, iphone);
+//amazon.NOtifyAll();
 
 #endregion

@@ -1,0 +1,12 @@
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ObserverPattern\bin\Debug\net8.0\ObserverPattern.deps.json
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ObserverPattern\bin\Debug\net8.0\ObserverPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ObserverPattern\bin\Debug\net8.0\ObserverPattern.pdb
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ObserverPattern.sourcelink.json
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ObserverPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ObserverPattern\obj\Debug\net8.0\refint\ObserverPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ObserverPattern.pdb
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ref\ObserverPattern.dll

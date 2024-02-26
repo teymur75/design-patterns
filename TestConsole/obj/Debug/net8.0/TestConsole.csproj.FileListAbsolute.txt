@@ -23,3 +23,5 @@ C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\Adap
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\AdapterPattern.pdb
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\StrategyPattern.dll
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\StrategyPattern.pdb
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\ObserverPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\ObserverPattern.pdb
