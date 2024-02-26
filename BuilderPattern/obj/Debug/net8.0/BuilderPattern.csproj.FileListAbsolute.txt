@@ -20,3 +20,4 @@ C:\Users\teymur.rahimli\Desktop\DesignPatterns\BuilderPattern\obj\Debug\net8.0\B
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\BuilderPattern\obj\Debug\net8.0\refint\BuilderPattern.dll
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\BuilderPattern\obj\Debug\net8.0\BuilderPattern.pdb
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\BuilderPattern\obj\Debug\net8.0\ref\BuilderPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\BuilderPattern\obj\Debug\net8.0\BuilderPattern.sourcelink.json

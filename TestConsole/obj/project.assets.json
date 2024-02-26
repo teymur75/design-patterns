@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/BuilderPattern.dll": {}
         }
+      },
+      "SingletonPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SingletonPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SingletonPattern.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../BuilderPattern/BuilderPattern.csproj",
       "msbuildProject": "../BuilderPattern/BuilderPattern.csproj"
+    },
+    "SingletonPattern/1.0.0": {
+      "type": "project",
+      "path": "../SingletonPattern/SingletonPattern.csproj",
+      "msbuildProject": "../SingletonPattern/SingletonPattern.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "BuilderPattern >= 1.0.0"
+      "BuilderPattern >= 1.0.0",
+      "SingletonPattern >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -60,6 +76,9 @@
           "projectReferences": {
             "C:\\Users\\teymur.rahimli\\Desktop\\DesignPatterns\\BuilderPattern\\BuilderPattern.csproj": {
               "projectPath": "C:\\Users\\teymur.rahimli\\Desktop\\DesignPatterns\\BuilderPattern\\BuilderPattern.csproj"
+            },
+            "C:\\Users\\teymur.rahimli\\Desktop\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj": {
+              "projectPath": "C:\\Users\\teymur.rahimli\\Desktop\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj"
             }
           }
         }

@@ -16,3 +16,6 @@ C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\obj\Debug\net8.0\refi
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\obj\Debug\net8.0\TestConsole.pdb
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\obj\Debug\net8.0\TestConsole.genruntimeconfig.cache
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\obj\Debug\net8.0\ref\TestConsole.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\SingletonPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\SingletonPattern.pdb
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\obj\Debug\net8.0\TestConsole.sourcelink.json
