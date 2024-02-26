@@ -2,6 +2,9 @@
 using AdapterPattern.Json.Adapters;
 using AdapterPattern.Xml.Adapters;
 using SingletonPattern;
+using StrategyPattern.Attacks;
+using StrategyPattern.Character;
+using StrategyPattern.Real;
 
 
 
@@ -91,12 +94,67 @@ using SingletonPattern;
 //Uygunlasdirma Patternidir
 
 
-TransferTransaction transc = new() { Amount = 0 ,FromIban="1",ToIban="2"};
-JsonBankApiAdapter jsAdapter = new();
-XmlBankApiAdapter xmlAdapter = new();
-var result=xmlAdapter.ExecuteTransaction(transc);
-Console.WriteLine(result);
-Console.ReadLine();
+//TransferTransaction transc = new() { Amount = 0 ,FromIban="1",ToIban="2"};
+//JsonBankApiAdapter jsAdapter = new();
+//XmlBankApiAdapter xmlAdapter = new();
+//var result=xmlAdapter.ExecuteTransaction(transc);
+//Console.WriteLine(result);
+//Console.ReadLine();
+
+
+#endregion
+
+#region StrategyPattern
+
+//BIr model yaradanda onun istifade edceyistrategiyalari degise bilirik se bu patterne strategy pattern deyirik
+//Var olan strategiyani gedisatda deyismek
+
+//var ch = new Character(new AggresiveCOmbatStrategy());
+//ch.ApplyAttactStrategy();
+
+//ch.SetCombat(new DefensiveCOmbatStrategy());
+//ch.ApplyAttactStrategy();
+
+//var paymentOpt = new PaymentInfo()
+//{
+//    CardHolderName = "Teymur Rahimli",
+//    CardNumber = "12345",
+//    CVV = "133",
+//    Amount = 100,
+//    ExpirationDate = "09/25"
+//};
+
+//var service = new PaymentService();
+
+//do
+//{
+//    Console.WriteLine("Bank Secin : 1-Kaptital,2-Abb,3-Leo");
+//    var bank=Console.ReadLine();
+
+//    IPaymentService paymentService = null;
+
+//    switch (bank)
+//    {
+//        case "1":
+//            paymentService = new KapitalBank();
+//            break; 
+//        case "2":
+//            paymentService = new Abb();
+//            break; 
+//        case "3":
+//            paymentService = new LeoBank();
+//            break;
+//        default:
+//            Console.WriteLine("Duzgun sec");
+//            break;
+//    }
+
+//    service.SetPAyment(paymentService);
+//    service.PayViaStrategy(paymentOpt);
+
+
+//} while (Console.ReadKey().Key!=ConsoleKey.Escape);
+
 
 
 #endregion

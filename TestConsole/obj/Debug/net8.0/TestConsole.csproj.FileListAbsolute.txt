@@ -21,3 +21,5 @@ C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\Sing
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\obj\Debug\net8.0\TestConsole.sourcelink.json
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\AdapterPattern.dll
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\AdapterPattern.pdb
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\StrategyPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\StrategyPattern.pdb

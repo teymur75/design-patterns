@@ -10,7 +10,8 @@
         "dependencies": {
           "AdapterPattern": "1.0.0",
           "BuilderPattern": "1.0.0",
-          "SingletonPattern": "1.0.0"
+          "SingletonPattern": "1.0.0",
+          "StrategyPattern": "1.0.0"
         },
         "runtime": {
           "TestConsole.dll": {}
@@ -29,6 +30,11 @@
       "SingletonPattern/1.0.0": {
         "runtime": {
           "SingletonPattern.dll": {}
+        }
+      },
+      "StrategyPattern/1.0.0": {
+        "runtime": {
+          "StrategyPattern.dll": {}
         }
       }
     }
@@ -50,6 +56,11 @@
       "sha512": ""
     },
     "SingletonPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StrategyPattern/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
