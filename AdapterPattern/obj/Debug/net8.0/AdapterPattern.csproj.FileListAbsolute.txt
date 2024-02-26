@@ -1,0 +1,12 @@
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\AdapterPattern\bin\Debug\net8.0\AdapterPattern.deps.json
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\AdapterPattern\bin\Debug\net8.0\AdapterPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\AdapterPattern\bin\Debug\net8.0\AdapterPattern.pdb
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\AdapterPattern\obj\Debug\net8.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\AdapterPattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\AdapterPattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\AdapterPattern\obj\Debug\net8.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\AdapterPattern\obj\Debug\net8.0\AdapterPattern.sourcelink.json
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\AdapterPattern\obj\Debug\net8.0\AdapterPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\AdapterPattern\obj\Debug\net8.0\refint\AdapterPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\AdapterPattern\obj\Debug\net8.0\AdapterPattern.pdb
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\AdapterPattern\obj\Debug\net8.0\ref\AdapterPattern.dll

@@ -1,4 +1,7 @@
-﻿using SingletonPattern;
+﻿using AdapterPattern;
+using AdapterPattern.Json.Adapters;
+using AdapterPattern.Xml.Adapters;
+using SingletonPattern;
 
 
 
@@ -85,7 +88,15 @@
 
 #region AdapterPattern
 
+//Uygunlasdirma Patternidir
 
+
+TransferTransaction transc = new() { Amount = 0 ,FromIban="1",ToIban="2"};
+JsonBankApiAdapter jsAdapter = new();
+XmlBankApiAdapter xmlAdapter = new();
+var result=xmlAdapter.ExecuteTransaction(transc);
+Console.WriteLine(result);
+Console.ReadLine();
 
 
 #endregion

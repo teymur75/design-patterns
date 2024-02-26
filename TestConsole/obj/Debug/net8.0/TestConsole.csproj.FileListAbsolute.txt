@@ -19,3 +19,5 @@ C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\obj\Debug\net8.0\ref\
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\SingletonPattern.dll
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\SingletonPattern.pdb
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\obj\Debug\net8.0\TestConsole.sourcelink.json
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\AdapterPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\AdapterPattern.pdb
