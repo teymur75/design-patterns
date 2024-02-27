@@ -25,3 +25,9 @@ C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\Stra
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\StrategyPattern.pdb
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\ObserverPattern.dll
 C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\ObserverPattern.pdb
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\ChainOfResponsibilityPattern'.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\DecoratorPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\ProxyPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\ChainOfResponsibilityPattern'.pdb
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\DecoratorPattern.pdb
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\TestConsole\bin\Debug\net8.0\ProxyPattern.pdb

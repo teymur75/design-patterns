@@ -10,7 +10,10 @@
         "dependencies": {
           "AdapterPattern": "1.0.0",
           "BuilderPattern": "1.0.0",
+          "ChainOfResponsibilityPattern'": "1.0.0",
+          "DecoratorPattern": "1.0.0",
           "ObserverPattern": "1.0.0",
+          "ProxyPattern": "1.0.0",
           "SingletonPattern": "1.0.0",
           "StrategyPattern": "1.0.0"
         },
@@ -28,9 +31,24 @@
           "BuilderPattern.dll": {}
         }
       },
+      "ChainOfResponsibilityPattern'/1.0.0": {
+        "runtime": {
+          "ChainOfResponsibilityPattern'.dll": {}
+        }
+      },
+      "DecoratorPattern/1.0.0": {
+        "runtime": {
+          "DecoratorPattern.dll": {}
+        }
+      },
       "ObserverPattern/1.0.0": {
         "runtime": {
           "ObserverPattern.dll": {}
+        }
+      },
+      "ProxyPattern/1.0.0": {
+        "runtime": {
+          "ProxyPattern.dll": {}
         }
       },
       "SingletonPattern/1.0.0": {
@@ -61,7 +79,22 @@
       "serviceable": false,
       "sha512": ""
     },
+    "ChainOfResponsibilityPattern'/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DecoratorPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "ObserverPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProxyPattern/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

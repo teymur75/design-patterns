@@ -7,7 +7,7 @@ using StrategyPattern.Attacks;
 using StrategyPattern.Character;
 using StrategyPattern.Real;
 using ProxyPattern;
-
+using ChainOfResponsibilityPattern_;
 
 
 #region BuilderPattern
@@ -192,5 +192,25 @@ using ProxyPattern;
 
 // MIRAS ALAN  alt siniflerde umumi crud islemlerini yuklemek mentiqidir
 //Umumi olaraq businnes logis alt siniflerde olmalidir
+
+#endregion
+
+#region ChainOfResponsibilityPAttern
+
+//Servisler arasindakiki dependencyni aradan qaldirmaq mentiqidir
+// Responsibilities   stockcontrol -> paymentcontrol -> ivoice -> shipping
+
+
+var order = new Order() { Name = "Product", Price = 100, Quantity = 100 };
+
+var stockControl = new StockControl();
+var paymentControl = new PaymentControl();
+var invoice = new Invoice();
+var shipping = new Shipping();
+
+stockControl.HAndle(order);
+stockControl.SetNext(paymentControl);
+paymentControl.SetNext(invoice);
+invoice.SetNext(shipping);
 
 #endregion
