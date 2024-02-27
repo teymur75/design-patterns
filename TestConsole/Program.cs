@@ -6,6 +6,7 @@ using SingletonPattern;
 using StrategyPattern.Attacks;
 using StrategyPattern.Character;
 using StrategyPattern.Real;
+using ProxyPattern;
 
 
 
@@ -176,4 +177,13 @@ using StrategyPattern.Real;
 ////amazon.REgister(observer, iphone);
 //amazon.NOtifyAll();
 
+#endregion
+
+#region ProxyPattern
+
+
+//ProxyPattern is goren metod ve client arasinda girerek guvenliy artirmaq meqsedi ile isleyir bu mentiq esaslanir
+
+//ILogger logger = new FileLogger();
+//logger.Log("HEllo World");
 #endregion
