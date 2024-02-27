@@ -187,3 +187,10 @@ using ProxyPattern;
 //ILogger logger = new FileLogger();
 //logger.Log("HEllo World");
 #endregion
+
+#region FactoryMethodPattern
+
+// MIRAS ALAN  alt siniflerde umumi crud islemlerini yuklemek mentiqidir
+//Umumi olaraq businnes logis alt siniflerde olmalidir
+
+#endregion

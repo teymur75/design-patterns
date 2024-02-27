@@ -1,0 +1,12 @@
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ProxyPattern\bin\Debug\net8.0\ProxyPattern.deps.json
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ProxyPattern\bin\Debug\net8.0\ProxyPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ProxyPattern\bin\Debug\net8.0\ProxyPattern.pdb
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ProxyPattern\obj\Debug\net8.0\ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ProxyPattern\obj\Debug\net8.0\ProxyPattern.AssemblyInfoInputs.cache
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ProxyPattern\obj\Debug\net8.0\ProxyPattern.AssemblyInfo.cs
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ProxyPattern\obj\Debug\net8.0\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ProxyPattern\obj\Debug\net8.0\ProxyPattern.sourcelink.json
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ProxyPattern\obj\Debug\net8.0\ProxyPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ProxyPattern\obj\Debug\net8.0\refint\ProxyPattern.dll
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ProxyPattern\obj\Debug\net8.0\ProxyPattern.pdb
+C:\Users\teymur.rahimli\Desktop\DesignPatterns\ProxyPattern\obj\Debug\net8.0\ref\ProxyPattern.dll
